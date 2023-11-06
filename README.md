@@ -2,6 +2,7 @@
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kauansb&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauansb)](https://github.com/kauansb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauansb&layout=donut)](https://github.com/kauansb/github-readme-stats)
 
 <!--
 **kauansb/kauansb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
