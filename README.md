@@ -1,19 +1,12 @@
-### Hi there 👋
+### Olá! 👋 Eu sou o Kauan
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kauansb&show_icons=true&theme=radical&size_weight=1&count_weight=0)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauansb&layout=donut)](https://github.com/kauansb/github-readme-stats&size_weight=1&count_weight=0)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kauansb&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/kauansb/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kauansb&layout=compact)](https://github.com/kauansb/github-readme-stats)
 
-<!--
-**kauansb/kauansb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Linguagens e Ferramentas
 
-Here are some ideas to get you started:
+Aqui estão algumas das linguagens e ferramentas que eu trabalho e/ou estou familiarizado:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Linguagens e Ferramentas](https://github-readme-stats.vercel.app/api/top-langs/?username=kauansb&layout=compact)
+
+Sinta-se à vontade para explorar meus repositórios para mais projetos e contribuições!
