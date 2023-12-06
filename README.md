@@ -1,6 +1,6 @@
 ### Olá! 👋 Eu sou o Kauan
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kauansb&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/kauansb/github-readme-stats)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kauansb&show_icons=true&theme=radical&size_weight=1&count_weight=0)
 
 ### Linguagens e Ferramentas
 
