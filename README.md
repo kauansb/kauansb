@@ -6,7 +6,7 @@
 
 Aqui estão algumas das linguagens e ferramentas que eu trabalho e/ou estou familiarizado:
 
-![Linguagens e Ferramentas](https://github-readme-stats.vercel.app/api/top-langs/?username=kauansb&layout=compact)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kauansb&layout=compact)](https://github.com/kauansb)
 
 Sinta-se à vontade para explorar meus repositórios para mais projetos e contribuições!
 
