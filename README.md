@@ -11,6 +11,6 @@ Aqui estão algumas das linguagens e ferramentas que eu trabalho e/ou estou fami
 Sinta-se à vontade para explorar meus repositórios para mais projetos e contribuições!
 
 ### Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kauan-barros)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-barros)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:kauansbflu@gmail.com)
 
