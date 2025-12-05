@@ -2,8 +2,6 @@
 
 ![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=kauansb&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=kauansb&theme=radical)
-
 ### Linguagens e Ferramentas
 
 Aqui estão algumas das linguagens e ferramentas que eu trabalho e/ou estou familiarizado:
